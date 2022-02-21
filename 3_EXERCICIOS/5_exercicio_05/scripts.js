@@ -1,0 +1,1 @@
+console.log("Nan" * 40);
